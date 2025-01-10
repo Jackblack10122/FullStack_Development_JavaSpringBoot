@@ -1,0 +1,1 @@
+az login --tenant TENANT_ID

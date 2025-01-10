@@ -19,7 +19,7 @@ import org.springframework.data.mongodb.core.mapping.DocumentReference;
 @NoArgsConstructor
 
 
-public class movie {
+public class Movie {
 
     @Id
 
